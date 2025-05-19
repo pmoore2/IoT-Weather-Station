@@ -8,7 +8,7 @@ The weather station uses an ESP8266 NodeMCU as the publisher, equipped with a DH
 ![alt text](https://github.com/pmoore2/IoT-Weather-Station/blob/main/images/Picture3.png "MQTT Mosquitto Broker")
 ![alt text](https://github.com/pmoore2/IoT-Weather-Station/blob/main/images/Picture2.png "Node-RED UI Application")
 
-This project taught me how to create an embedded system and use it in an MQTT network. I also read this paper1 to learn more about the MQTT protocol. MQTT is a lightweight protocol and is very flexible, making it ideal for developers creating IoT applications. However, the protocol has some security limitations, such as a lack of native encryption, which leaves data vulnerable to interception. The project provided hands-on experience with Arduino sketches, IoT hardware, and MQTT's publisher-subscriber model. Future work includes adding email notifications when certain temperature thresholds are met, exploring security vulnerabilities, and making the application more secure.
+This project taught me how to create an embedded system and use it in an MQTT network. I also read this paper[^1] to learn more about the MQTT protocol. MQTT is a lightweight protocol and is very flexible, making it ideal for developers creating IoT applications. However, the protocol has some security limitations, such as a lack of native encryption, which leaves data vulnerable to interception. The project provided hands-on experience with Arduino sketches, IoT hardware, and MQTT's publisher-subscriber model. Future work includes adding email notifications when certain temperature thresholds are met, exploring security vulnerabilities, and making the application more secure.
 
 ### References
 
